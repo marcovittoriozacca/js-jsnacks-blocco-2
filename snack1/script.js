@@ -4,7 +4,7 @@ const numArray = [];
 //variabile che conterrà la somma dei valori inseriti nell'array
 let sumOfNumbers = 0;
 
-//ciclo while - se la somma dei numeri + pari o supererà il valore "50" smetterà di chiedere i valori all'utente
+//ciclo while - se la somma dei numeri è, o supererà, il valore "50" smetterà di chiedere i valori all'utente
 while(sumOfNumbers < 50){
 
     //input del valore
